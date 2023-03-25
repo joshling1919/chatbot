@@ -1,5 +1,7 @@
 # Pinecone Chatbot Demo
 
+https://www.pinecone.io/learn/javascript-chatbot/#demo
+
 To run this demo, you need to have:
 
 1. A Pinecone account. If you don't have one, you can sign up for free at [pinecone.io](https://www.pinecone.io).
